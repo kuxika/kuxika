@@ -2,7 +2,7 @@
 A dude from Guam
 
 - 👀 I’m interested in ...
-Women and pondering upon "code of conduct" sections in readmes.
+Pondering the need (or desire) for a "code of conduct" section in software.
 
 - 🌱 I’m currently learning ...
 Everything, everywhere, all the time.
